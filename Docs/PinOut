@@ -1,0 +1,10 @@
+## DIGITAL PINS
+LEFT = 9
+RIGHT = 10
+lineSensorPin[4] = {8,11,12,14}
+Motor1 (L/R) Pin 1 (F/R) = 7
+Motor1 (L/R) Pin 2 (F/R) = 6
+Motor2 (L/R) Pin 1 (F/R) = 5
+Motor2 (L/R) Pin 2 (F/R) = 4
+MotorENA = 3
+MotorENB = 2
